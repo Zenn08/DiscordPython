@@ -1,3 +1,7 @@
-# DiscordPython
+# MrCingo repo!
 
-You can use this code to make your own bot if you want!
+  Please if you see any error in my code say me what is the error.
+    
+    Contact: MrCingo#0069
+
+  Have a great time :)!
